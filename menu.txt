@@ -1,0 +1,9 @@
+M101,Burger,120.0
+M102,Pizza,250.0
+M103,Pasta,180.0
+M101,Burger,120.0
+M102,Pizza,250.0
+M103,Pasta,180.0
+M101,Burger,120.0
+M102,Pizza,250.0
+M103,Pasta,180.0
