@@ -1,0 +1,6 @@
+P101,Ram,45,Diabetes
+P102,Shyam,30,Fever
+P101,Ram,45,Diabetes
+P102,Shyam,30,Fever
+P101,Ram,45,Diabetes
+P102,Shyam,30,Fever
