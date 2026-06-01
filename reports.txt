@@ -1,0 +1,7 @@
+R1,P101,Metformin,1500.0
+R2,P102,Paracetamol,500.0
+
+R1,P101,Metformin,1500.0
+R2,P102,Paracetamol,500.0
+R1,P101,Metformin,1500.0
+R2,P102,Paracetamol,500.0
